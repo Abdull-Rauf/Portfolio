@@ -20,12 +20,10 @@ nav.map((item, index) => {
 const changePage = () => {
   switch (doc.location.pathname) {
     case '/':
-      console.log('home');
       aboutPage();
       break;
 
     case '/work':
-      console.log('work');
       myWork();
 
       break;
@@ -33,7 +31,6 @@ const changePage = () => {
       contactMe();
       break;
     default:
-      console.log('object');
       break;
   }
 };
