@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "My portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulrauf84/Portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "resume"
+  ],
+  "author": "Abdul Rauf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulrauf84/Portfolio/issues"
+  },
+  "homepage": "https://github.com/abdulrauf84/Portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
